@@ -5,7 +5,7 @@ Flutter develeper with more than 2 years experiens. I have good knowledge in mob
 
 dart/Flutter
 * Flutter
-* DataBases: Heve, Firebase
+* DataBases: Hive, Firebase
 * Provider, Bloc, RestApi
 
 swift/Xcode
